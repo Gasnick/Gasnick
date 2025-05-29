@@ -1,13 +1,19 @@
-# Nicolás Gasco
+🧑‍💻 Sobre mí
+¡Hola! Soy Nicolás Gasco, Ingeniero en Sistemas con experiencia combinada en análisis de datos y desarrollo frontend. Me apasiona optimizar procesos y crear soluciones digitales que aporten valor, ya sea a través del análisis de información o del diseño de interfaces interactivas.
 
-## Acerca de mí
-¡Hola! Soy Nicolás, un Ingeniero en Sistemas con experiencia en el área de convenios médicos y un apasionado por el análisis de datos. Actualmente estoy buscando oportunidades laborales en el campo de la tecnología de la información, específicamente en roles de Desarrollador Frontend y Analista de Datos.
+🔍 Actualmente busco oportunidades laborales remotas en tecnología, principalmente en roles como Analista de Datos o Frontend Developer Jr.
 
-- 🎓 Ingeniero en Sistemas, graduado en 2018.
-- 📍 Ubicación: La Rioja, Argentina.
-- 🌱 Actualmente estoy estudiando tecnologías relacionadas con el desarrollo Frontend, como HTML, CSS, JavaScript, React, así como también Base de datos, SQL y noSQL y herramientas de visualización de datos, como Microsoft Excel.
-- 💼 Experiencia laboral: Encargado del área de Convenios en una obra social, donde negocio convenios médicos, realizo análisis de datos utilizando Microsoft Excel y los presente en informe estadísticos.
-- 📚 Nivel de inglés: B1, certificado por EF SET. https://cert.efset.org/GCJNuo
+🎓 Graduado como Ingeniero en Sistemas (2018) – Universidad Nacional de La Rioja.
+📍 Ubicación: La Rioja, Argentina.
+💼 Experiencia:
+
+Encargado del análisis de convenios médicos en una obra social universitaria.
+
+Desarrollo de dashboards y reportes con Excel avanzado y SQL.
+
+Desarrollo de aplicaciones web usando Vue.js, JavaScript, HTML y CSS en proyectos personales.
+🌱 En constante formación con cursos sobre Git, React, visualización de datos y metodologías de trabajo modernas.
+🌐 Inglés nivel B1 certificado por EF SET: https://cert.efset.org/GCJNuo
   
 ## Contacto
 ¡Estoy abierto a oportunidades laborales! No dudes en ponerte en contacto conmigo a través de LinkedIn: www.linkedin.com/in/nicogasco o correo electrónico: nikolasgv@gmail.com
