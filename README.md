@@ -1,4 +1,5 @@
-🧑‍💻 Sobre mí
+## 🧑‍💻 Sobre mí
+
 ¡Hola! Soy Nicolás Gasco, Ingeniero en Sistemas con experiencia combinada en análisis de datos y desarrollo frontend. Me apasiona optimizar procesos y crear soluciones digitales que aporten valor, ya sea a través del análisis de información o del diseño de interfaces interactivas.
 
 🔍 Actualmente busco oportunidades laborales remotas en tecnología, principalmente en roles como Analista de Datos o Frontend Developer Jr.
