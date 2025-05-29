@@ -18,6 +18,7 @@
 
 
 🌱 En constante formación con cursos sobre Git, React, visualización de datos y metodologías de trabajo modernas.
+
 🌐 Inglés nivel B1 certificado por EF SET: https://cert.efset.org/GCJNuo
   
 ## Contacto
