@@ -14,7 +14,7 @@
 
 -Desarrollo de dashboards y reportes con Excel avanzado y SQL.
 
--Desarrollo de aplicaciones web usando Vue.js, JavaScript, HTML y CSS en proyectos personales.
+-Desarrollo de aplicaciones web usando Vue.js, React.js, JavaScript, HTML y Bootstrap en proyectos personales.
 
 
 🌱 En constante formación con cursos sobre Git, React, visualización de datos y metodologías de trabajo modernas.
